@@ -30,3 +30,15 @@ if __name__ == '__main__':
         ob=Solution()
         print(ob.getMaxArea(a))
 # } Driver Code Ends
+
+
+"""
+Input:
+N = 8
+arr[] = {7 2 8 9 1 3 6 5}
+Output: 16
+Explanation: Maximum size of the histogram 
+will be 8  and there will be 2 consecutive 
+histogram. And hence the area of the 
+histogram will be 8x2 = 16.
+"""
